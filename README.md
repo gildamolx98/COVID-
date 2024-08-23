@@ -33,9 +33,6 @@ Dataset link : https://www.kaggle.com/datasets/imdevskp/corona-virus-report
 
 For exploring more, A POWER BI file is added. 
 
-VISIT : CORONA.pbix
-
-
 # THANK YOU
 
 
